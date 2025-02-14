@@ -15,7 +15,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Band\ Generator\ Project/
+  cd Band-Generator-Project/
 ```
 
 Install dependencies
