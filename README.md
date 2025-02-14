@@ -9,13 +9,13 @@ you should have bash & node installed to run the following commands:
 Clone the project
 
 ```bash
-  git clone https://github.com/Muhammad942/Secrets-Project.git
+  git clone https://github.com/Muhammad942/Band-Generator-Project.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd 3.5\ Secrets\ Project/
+  cd Band\ Generator\ Project/
 ```
 
 Install dependencies
